@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Артём\Desktop\create files in dir\Project24\Source.cpp(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project24.vcxproj -> C:\Users\Артём\Desktop\create files in dir\x64\Debug\Project24.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
